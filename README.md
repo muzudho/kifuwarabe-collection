@@ -4,7 +4,7 @@
 
 ## 2014-11 KifuWarabe_DenouT2Ver
 
-一番古い記録  
+一番古い記録。 Git hub には上げてない。  
 
 [同人サークル ぐれーすけーる ホームページ 将棋のページ](http://grayscale.iza-yoi.net/shogi/index.html)
 [Vector きふわらべ](https://www.vector.co.jp/soft/winnt/game/se508364.html)

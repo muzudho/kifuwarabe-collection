@@ -77,7 +77,7 @@ Rename: kifuwarabe-shogi-2018
 
 ## shogi-kifu-converter
 
-## 2019-05 kifuwarabe-wcsc29
+## 2019-05 rust-kifuwarabe-wcsc29
 
 `rust-kifuwarabe-wcsc29-lib` が本体☆（＾～＾）  
 `cargo run` の途中で 自分の GitHub からライブラリをダウンロードできないのか、  
@@ -101,9 +101,11 @@ Rename: kifuwarabe-shogi-2018
 
 ## Kifuwarabe-go-board-gui
 
+## きふわらべWCSC27
+
 ## Kifuwarabe_WCSC28
 
-きふわらべWCSC28
+動くけど 見た感じランダム指しと違いが分からん……☆（＾～＾）  
 
 ## rust-kifuwarabe-wcsc30-tester
 
@@ -127,10 +129,6 @@ Rename: kifuwarabe-shogi-2018
 kifuwarabe2020-wcsodr1 から分岐させたやつ☆（＾～＾）  
 こいつが期待の星だったんだが、探索中に強制終了するんで使えない☆（＾～＾）  
 
-## kifuwarabe-shogi-with-lesserpyon
-
-## きふわらべWCSC27
-
 ## rust-kifuwarabe-wcsc30
 
 きふわらべ将棋WCSC30 Build No.441.  
@@ -148,6 +146,13 @@ PromotionWeightPer1000[ 1000 ]
 
 ## rust-kifuwarabe-wcsc30-tester
 
+なんだこりゃ☆（＾～＾）  
+ユニットテストか何かを作ろうとしてたんだろうが☆（＾～＾）  
+
 ## kifuwarabe-shogi-2021
 
-2020年11月に作り始めたばかり☆（＾～＾）
+2020年11月に作り始めたばかり☆（＾～＾）  
+
+## kifuwarabe-shogi-with-lesserpyon
+
+2020年11月に作り始めたばかり☆（＾～＾）  

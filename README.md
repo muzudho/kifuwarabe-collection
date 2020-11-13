@@ -51,7 +51,13 @@
 
 ## rust_kifuwarabe_usi
 
-## Kifuwarabe_Shogi2018
+## 2018-09 Kifuwarabe_Shogi2018
+
+Rename: kifuwarabe-shogi-2018  
+
+何に使ったのか、使ってないのか不明☆（＾～＾）  
+`cargo run` の途中で 自分の GitHub からライブラリをダウンロードできないのか、  
+`Blocking waiting for file lock on build directory` で止まってしまう☆（＾～＾）  
 
 ## rust_kifuwarabe_shell_visualizer
 
@@ -71,9 +77,13 @@
 
 ## shogi-kifu-converter
 
-## kifuwarabe-wcsc29
+## 2019-05 kifuwarabe-wcsc29
 
-## rust-kifuwarabe-wcsc29-lib
+`rust-kifuwarabe-wcsc29-lib` が本体☆（＾～＾）  
+`cargo run` の途中で 自分の GitHub からライブラリをダウンロードできないのか、  
+`Blocking waiting for file lock on build directory` で止まってしまう☆（＾～＾）  
+
+## 2019-05 rust-kifuwarabe-wcsc29-lib
 
 ## kifuwarabe-air2019
 
@@ -109,10 +119,31 @@
 
 ## kifuwarabe-dynamic-programming
 
-## kifuwarabe-shogi-2021
-
 ## kifuwarabe-shogi-entry-model
+
+こいつが期待の星だったんだが、探索中に強制終了するんで使えない☆（＾～＾）  
 
 ## kifuwarabe-shogi-with-lesserpyon
 
 ## きふわらべWCSC27
+
+## rust-kifuwarabe-wcsc30
+
+きふわらべ将棋WCSC30 Build No.441.  
+動きはするが☆（＾～＾）  
+後手の香車が後ろ向いてると思ってるので 先手のきふわらべは 後手の香車の正面に飛車打ったりする☆（＾～＾）  
+
+エンジン設定の例:  
+
+```plain
+DepthNotToGiveUp      [    7 ]    MaxDepth        [    5 ]
+MinThinkSec           [    5 ]    MaxThinkSec     [   17 ]
+KomawariWeightPer1000 [ 1000 ]    ManyWaysPer1000 [ 1000 ]
+PromotionWeightPer1000[ 1000 ]
+```
+
+## rust-kifuwarabe-wcsc30-tester
+
+## kifuwarabe-shogi-2021
+
+2020年11月に作り始めたばかり☆（＾～＾）

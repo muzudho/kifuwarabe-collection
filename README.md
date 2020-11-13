@@ -113,6 +113,9 @@ Rename: kifuwarabe-shogi-2018
 
 ## kifuwarabe2020-wcsodr1
 
+このバージョンから 強制終了する☆（＾～＾）  
+こいつから派生したやつも 強制終了するぜ☆（＾～＾）  
+
 ## kifuwarabe-tic-tac-toe
 
 ## kifuwarabe-connect-four
@@ -121,6 +124,7 @@ Rename: kifuwarabe-shogi-2018
 
 ## kifuwarabe-shogi-entry-model
 
+kifuwarabe2020-wcsodr1 から分岐させたやつ☆（＾～＾）  
 こいつが期待の星だったんだが、探索中に強制終了するんで使えない☆（＾～＾）  
 
 ## kifuwarabe-shogi-with-lesserpyon

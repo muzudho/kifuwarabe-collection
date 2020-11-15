@@ -33,7 +33,12 @@ Debug でも Release でもなく、 LEARN モードでしか動かない☆（�
 
 きふわらぷりー。 いわゆる きふわるべ☆（＾～＾）  
 
-Visual Studio ではコンパイルできないので、 Apery-SDT3 のソースコードの説明書を読んでくれだぜ☆（＾～＾）  
+Apery-SDT3 がベースで、本来 Visual Studio ではコンパイルできないんだが、  
+わたしは改造して Visual Studio で動かすようにしたらしいぜ☆（＾～＾）  
+
+* `Kifuwarapery.exe` と同じディレクトリーに `20151105` というディレクトリーを必ず作ってください。対局開始時に その中に評価値ファイルが動的に作成されます。  
+  * しかし、この部分、わたしがいじってしまったので、かなり時間がかかるぜ☆（＾～＾）
+    * でもこの自動生成は１回やれば２回目から要らないはずなんで、対局前に１回やっておけだぜ☆（＾～＾）
 
 ## Kifuwarabe_CSharp
 
@@ -57,7 +62,12 @@ Debug でも Release でもなく、 LEARN モードでしか動かない☆（�
 
 ## Kifuwarabe_WCSC27
 
+どうぶつしょうぎ（shogi34）の大会バージョン。  
+
 ## Kifuwarabe_SDT5
+
+飛車がパタパタするだけで、うまく指せない☆（＾～＾）  
+Kifuwarabe_ShogiWinConsole が本体☆（＾～＾）  
 
 ## KifuwarabeLib_ShogiRust
 
@@ -128,6 +138,18 @@ Rename: kifuwarabe-shogi-2018
 ## Kifuwarabe_WCSC28
 
 動くけど 見た感じランダム指しと違いが分からん……☆（＾～＾）  
+
+## kifuwarabe-wcsc29
+
+いわゆる大橋流きふわらべ☆（＾～＾）  
+構想がでかすぎて 復旧の目途が立たず☆（＾～＾） 使うと初手投了する☆（＾～＾）  
+
+こいつは入り口☆（＾～＾）  
+rust-kifuwarabe-wcsc29-lib が本体☆（＾～＾）  
+その他に `kifuwarabe-wcsc29-exe-config.json` という設定ファイルに、 もっと上の立場から管理するための  
+マスター設定ファイル を置くディレクトリー を設定することが必要☆（＾～＾）  
+
+`kifuwarabe-wcsc29-shared` というディレクトリーを別途作ってそこに棋譜ファイルを大量に置けだぜ☆（＾～＾）  
 
 ## rust-kifuwarabe-wcsc30-tester
 

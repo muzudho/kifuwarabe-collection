@@ -139,9 +139,13 @@ Rename: kifuwarabe-shogi-2018
 
 動くけど 見た感じランダム指しと違いが分からん……☆（＾～＾）  
 
+		* Agree から指さないバグがある。たまに再起動が必要？
+		* `isready` をもらってから `readyok` を返してない。
+
 ## kifuwarabe-wcsc29
 
 いわゆる大橋流きふわらべ☆（＾～＾）  
+コードが作りかけなので、復旧のめど立たず。  
 構想がでかすぎて 復旧の目途が立たず☆（＾～＾） 使うと初手投了する☆（＾～＾）  
 
 こいつは入り口☆（＾～＾）  
@@ -200,3 +204,12 @@ PromotionWeightPer1000[ 1000 ]
 ## kifuwarabe-shogi-with-lesserpyon
 
 2020年11月に作り始めたばかり☆（＾～＾）  
+
+## Memo
+
+* Usagi-cchi_SDT3_Kw VS Paon-paon_WCSC27_Kw で対局始まらず。 Paon-paon_WCSC27_Kw の方がサーバーからログアウト。
+* Usagi-cchi_SDT3_Kw VS Paon-paon_WCSC27_Kw で対局始まらず。 Usagi-cchi_SDT3 の方がサーバーからログアウト。
+* Bow-wow_SDT4_Kw VS AobaZero で Bow-wow_SDT4_Kw の方がサーバーからログアウト。
+* Gao-gao_WCSC28_kw VS Bow-wow_SDT4_Kw で Bow-wow_SDT4_Kw の方がサーバーからログアウト。 `isready` をもらってから `readyok` を返してない。
+* Poppo-poppo_WCSC30_kw VS Usagi-cchi_SDT3_Kw で対局始まらず。 Usagi-cchi_SDT3_Kw の方がサーバーからログアウト。 `isready` をもらってから `readyok` を返してない。
+* Paon-paon_WCSC27_Kw が `<T:END Game_Summary` のあと何もせず終了。

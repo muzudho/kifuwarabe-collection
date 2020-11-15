@@ -6,8 +6,11 @@
 
 一番古い記録。 Git hub には上げてない。  
 
-[同人サークル ぐれーすけーる ホームページ 将棋のページ](http://grayscale.iza-yoi.net/shogi/index.html)
-[Vector きふわらべ](https://www.vector.co.jp/soft/winnt/game/se508364.html)
+[同人サークル ぐれーすけーる ホームページ 将棋のページ](http://grayscale.iza-yoi.net/shogi/index.html)  
+[Vector きふわらべ](https://www.vector.co.jp/soft/winnt/game/se508364.html)  
+
+ログ・ファイルを消すコードも書いているが、消えている様子はない……☆（＾～＾）  
+1対局するたびに ログ・ファイルが 1MB 以上増えていくのは 改修したい……☆（＾～＾）  
 
 ## 2015-05 KifuWarabe_v1.14
 
@@ -15,9 +18,22 @@
 
 ## Kifuwarabe_DenouT3
 
+いわゆる うそ学習きふわらべ☆（＾～＾）  
+usi の直後に 実行ファイルが強制終了してしまう。なぜなのか☆（＾～＾）？  
+
+Debug でも Release でもなく、 LEARN モードでしか動かない☆（＾～＾）？  
+`LEARN | Any CPU | P500_ShogiEngine`  
+将棋所の連続対局で ２局目の isready に反応しない☆（＾～＾）？  
+
+バイナリ・フォルダはソースとは別のところに分けたい☆（＾～＾）  
+
 ## Kifuwarapery
 
 ## Kifuwarabe_WCSC26
+
+きふわらぷりー。 いわゆる きふわるべ☆（＾～＾）  
+
+Visual Studio ではコンパイルできないので、 Apery-SDT3 のソースコードの説明書を読んでくれだぜ☆（＾～＾）  
 
 ## Kifuwarabe_CSharp
 
@@ -30,6 +46,12 @@
 ## Kifuwarabe_Igo_Unity_Think
 
 ## Kifuwarabe_DenouT4
+
+Debug でも Release でもなく、 LEARN モードでしか動かない☆（＾～＾）？  
+`LEARN | Any CPU | P500_ShogiEngine`  
+将棋所の連続対局で ２局目の isready に反応しない☆（＾～＾）？  
+
+バイナリ・フォルダはソースとは別のところに分けたい☆（＾～＾）  
 
 ## Kifuwarabe_Igo_UEC10
 

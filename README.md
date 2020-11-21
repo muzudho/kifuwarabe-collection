@@ -16,14 +16,14 @@
 
 [Vector きふわらべ 第25回世界コンピュータ将棋選手権版](https://www.vector.co.jp/soft/dl/winnt/game/se510115.html)  
 
-## Kifuwarabe_DenouT3
+## 201511-SDT-Kifuwarakaku (Kifuwarabe_DenouT3)
 
 いわゆる うそ学習きふわらべ☆（＾～＾）  
 usi の直後に 実行ファイルが強制終了してしまう。なぜなのか☆（＾～＾）？  
 
 Debug でも Release でもなく、 LEARN モードでしか動かない☆（＾～＾）？  
 `LEARN | Any CPU | P500_ShogiEngine`  
-将棋所の連続対局で ２局目の isready に反応しない☆（＾～＾）？  
+将棋所の連続対局で ２局目の isready に反応しない☆（＾～＾）？ 連続体局の２局目、後手なのに先に指してしまう？  
 
 バイナリ・フォルダはソースとは別のところに分けたい☆（＾～＾）  
 

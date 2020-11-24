@@ -42,13 +42,24 @@ Apery-SDT3 がベースで、本来 Visual Studio ではコンパイルできな
 
 ## Kifuwarabe_CSharp
 
-## Kifuwarabe_Uec9_Cgfthink
+## 2016-03 Gnugo1.2_CS_Kifuwarabe
 
-## Kifuwarabe_Uec9_Cgfgoban
+コンピューター囲碁  
 
-## CgfThink_Kifuwarabe
+## 2016-03 Kifuwarabe_Uec9_Cgfthink
 
-## Kifuwarabe_Igo_Unity_Think
+コンピューター囲碁☆（＾～＾）  
+http://www.computer-go.jp/uec/public_html/past/2015/index.shtml  
+
+## 2016-03 Kifuwarabe_Uec9_Cgfgoban
+
+コンピューター囲碁☆（＾～＾）  
+
+## 2016-03 CgfThink_Kifuwarabe
+
+コンピューター囲碁☆（＾～＾）  
+
+## 2016-03 Kifuwarabe_Igo_Unity_Think
 
 ## Kifuwarabe_DenouT4
 
@@ -58,8 +69,13 @@ Debug でも Release でもなく、 LEARN モードでしか動かない☆（�
 
 バイナリ・フォルダはソースとは別のところに分けたい☆（＾～＾）  
 
-## Kifuwarabe_Igo_UEC10
+## 2017-03 Kifuwarabe_Igo_UEC10
 
+コンピューター囲碁☆（＾～＾）  
+http://www.computer-go.jp/uec/public_html/index.shtml
+
+2017-12 AI竜星戦2017 のはどれだぜ☆（＾～＾）？
+https://www.igoshogi.net/ai_ryusei2017/01/outline.html  
 ## Kifuwarabe_WCSC27
 
 どうぶつしょうぎ（shogi34）の大会バージョン。  
@@ -103,7 +119,11 @@ Rename: kifuwarabe-shogi-2018
 
 ## cgfgoban109_for_kifuwarabe2018
 
-## rust_kifuwarabe_igo2018
+## 2018-12 rust_kifuwarabe_igo2018
+
+コンピューター囲碁☆（＾～＾）  
+AI竜星戦2018
+https://www.igoshogi.net/ai_ryusei/01/  
 
 ## rust-kifuwarabe-server-wcsc29
 
@@ -119,19 +139,39 @@ Rename: kifuwarabe-shogi-2018
 
 ## kifuwarabe-air2019
 
+コンピューター囲碁☆（＾～＾）  
+
 ## kifuwarabe-uec11-think
+
+空っぽ☆（＾～＾）
+https://github.com/muzudho/kifuwarabe-uec11-think
 
 ## kifuwarabe-uec11-server
 
+ハローワールド☆（＾～＾）
+https://github.com/muzudho/kifuwarabe-uec11-server/blob/master/src/main.rs
+
 ## kifuwarabe-uec11-jungo
+
+ハローワールド☆（＾～＾）
+https://github.com/muzudho/kifuwarabe-uec11-jungo
 
 ## rust-kifuwarabe-uec11-client
 
+動くか分からないが、なんか作ってあるぜ☆（＾～＾）
+https://github.com/muzudho/rust-kifuwarabe-uec11-client
+
 ## runtime-kifuwarabe-go-board-gui
+
+UIだけ☆（＾～＾）
+https://github.com/muzudho/runtime-kifuwarabe-go-board-gui
 
 ## KifuwarabeFighter2
 
 ## Kifuwarabe-go-board-gui
+
+UIだけ☆（＾～＾）
+https://github.com/muzudho/kifuwarabe-go-board-gui
 
 ## きふわらべWCSC27
 
